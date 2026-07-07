@@ -50,10 +50,6 @@ GitHub: https://github.com/hariprasanth-vip
 
 🔹 Campus Hall Availability & Reservation System
 
-🔹 BrakeShield – Intelligent Brake Failure Warning System
-
-🔹 Disaster Detection & Early Warning System
-
 ---
 
 ⭐ Always learning and building new projects.
