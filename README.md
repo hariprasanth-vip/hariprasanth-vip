@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Hari Prasanth
 
-<!--
-**hariprasanth-vip/hariprasanth-vip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- React.js
+- Node.js
+- MongoDB
+- .NET Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Project
+- Driver Database Management System (DMS)
+
+💻 Skills
+- C
+- C#
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- React
+
+📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/hari-prasanth-254a29328 
+
+GitHub: https://github.com/hariprasanth-vip
+
+---
+
+### Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode)
+
+---
+
+### GitHub Stats
+
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariprasanth-vip&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasanth-vip&layout=compact)
+
+---
+
+### Projects
+
+🔹 Driver Database Management System
+
+🔹 Campus Hall Availability & Reservation System
+
+🔹 BrakeShield – Intelligent Brake Failure Warning System
+
+🔹 Disaster Detection & Early Warning System
+
+---
+
+⭐ Always learning and building new projects.
