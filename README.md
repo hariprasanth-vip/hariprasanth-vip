@@ -49,7 +49,7 @@ GitHub: https://github.com/hariprasanth-vip
 
 🔹 Driver Database Management System
 
-🔹 Campus Hall Availability & Reservation System
+🔹 NOVA
 
 ---
 
